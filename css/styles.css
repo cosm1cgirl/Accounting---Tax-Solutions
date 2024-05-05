@@ -1,0 +1,20 @@
+h1,
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.offers {
+  text-align: center;
+  color: #491a2c;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+}
+.contact-info {
+  color: #491a2c;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+}
